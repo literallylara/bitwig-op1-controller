@@ -46,19 +46,19 @@ Record | Toggle transport record
 Play | Toggle transport play
 Stop | Stop transport
 Metronome | Toggle metronome
-| 
+ &nbsp; | 
 Lift | Cut if applicable
 Drop | Paste if applicable
-|
+ &nbsp; | 
 Left | Move cursor 1 beat to the left
 Right | Move cursor 1 beat to the right
-|
+ &nbsp; | 
 Left (playing) | Fastforward
 Right (playing) | Rewind
-|
+ &nbsp; | 
 Shift + Left | Lower notes by an octave
 Shift + Right | Raise notes by an octave
-|
+ &nbsp; | 
 1 (in) | Toggle punch in
 2 (in) | Toggle punch out
 3 (loop) | Toggle arranger loop
