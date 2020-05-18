@@ -14,13 +14,13 @@ Special keys have been mapped to mimic the native behaviour on the OP1 as close 
 Place `op1.control.js` into the following directory:
 
 **Windows**  
-> %USERPROFILE%\Documents\Bitwig Studio\Controller Scripts\Teenage Engineering
+> %USERPROFILE%\Documents\Bitwig Studio\Controller Scripts\teenage-engineering
 
 **Mac**  
-> ~/Documents/Bitwig Studio/Controller Scripts/Teenage Engineering
+> ~/Documents/Bitwig Studio/Controller Scripts/teenage-engineering
 
 **Linux**  
-> ~/Bitwig Studio/Controller Scripts/Teenage Engineering
+> ~/Bitwig Studio/Controller Scripts/teenage-engineering
 
 ## Mapping
 
