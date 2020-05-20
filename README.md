@@ -31,7 +31,10 @@ T1 | Toggle Detail Editor Panel
 T2 | Toggle Automation Editor Panel
 T3 | Toggle Device Panel
 T4 | Toggle Mixer Panel
+ &nbsp; | 
 Help | Toggle Inspector Panel
+Synthesizer | Toggle Device Panel
+Mixer | Toggle Mixer Panel
 
 ### Arranger
 Key | Function
@@ -60,7 +63,7 @@ Shift + Left | Lower notes by an octave
 Shift + Right | Raise notes by an octave
  &nbsp; | 
 1 (in) | Toggle punch in
-2 (in) | Toggle punch out
+2 (out) | Toggle punch out
 3 (loop) | Toggle arranger loop
 
 ### Miscellaneous
