@@ -31,7 +31,7 @@ T1 | Toggle Detail Editor Panel
 T2 | Toggle Automation Editor Panel
 T3 | Toggle Device Panel
 T4 | Toggle Mixer Panel
- &nbsp; | 
+| | |
 Help | Toggle Inspector Panel
 Synthesizer | Toggle Device Panel
 Mixer | Toggle Mixer Panel
@@ -49,19 +49,19 @@ Record | Toggle transport record
 Play | Toggle transport play
 Stop | Stop transport
 Metronome | Toggle metronome
- &nbsp; | 
+| | |
 Lift | Cut if applicable
 Drop | Paste if applicable
- &nbsp; | 
+| | |
 Left | Move cursor 1 beat to the left
 Right | Move cursor 1 beat to the right
- &nbsp; | 
+| | |
 Left (playing) | Fastforward
 Right (playing) | Rewind
- &nbsp; | 
+| | |
 Shift + Left | Lower notes by an octave
 Shift + Right | Raise notes by an octave
- &nbsp; | 
+| | |
 1 (in) | Toggle punch in
 2 (out) | Toggle punch out
 3 (loop) | Toggle arranger loop
