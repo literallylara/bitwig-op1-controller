@@ -3,7 +3,10 @@ Bitwig OP1 Controller Script (v0.1)
 
 Special keys have been mapped to mimic the native behaviour on the OP1 as close as possible (see [Mapping](#mapping)).
 
-**Note:** In order for the arrow keys to work you need to set the Midi channel to anything above 1 (shift + green knob).
+**Note:**
+
+- In order for the arrow keys to work you need to set the Midi channel to anything above 1 (shift + green knob).
+- If the OP1 does not get recognized it may be necessary to unplug and it a few times while Bitwig Studio is running.
 
 ---
 
